@@ -730,7 +730,10 @@ Kita memasukkan pada log.fs menggunakan `fprintf` dengan format `"%s::%02d%02d%0
 Kemudian kita melihat berapa count yang ada untuk path file.
 
 ### Output Soal 4.
-![Modul 4 soal 4](https://user-images.githubusercontent.com/61267430/79032180-a9c59880-7bce-11ea-93b4-9f01ba9f6cd0.png
+![soal 4 - 1](https://user-images.githubusercontent.com/61267430/80857227-b80d4e80-8c7a-11ea-8e14-3ae5fd66fdbc.png)
+![soal 4-  2](https://user-images.githubusercontent.com/61267430/80857228-b9d71200-8c7a-11ea-9304-e0a99a0b8361.png)
+![soal 4 - hasil 1](https://user-images.githubusercontent.com/61267430/80857230-bb083f00-8c7a-11ea-8f08-18174d996d3d.png)
+![soal 4 - hasil 2](https://user-images.githubusercontent.com/61267430/80857232-bba0d580-8c7a-11ea-8a0e-a09de7f2ce6c.png)
 
 ---
 ## Kendala
